@@ -1,3 +1,3 @@
 # First-2D-Unity-Game (Experimental)
-Testing 2D game creation in Unity.
+Testing Unity's 2D game creation.
 **Currently on Hiatus.**
